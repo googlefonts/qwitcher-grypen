@@ -202,6 +202,7 @@ verticalStems = (
 25
 );
 weight = Light;
+weightValue = 300;
 widthValue = 5;
 xHeight = 263;
 },
@@ -105436,16 +105437,7 @@ width = 163;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Qwitcherychen Light";
-},
-{
-name = postscriptFontName;
-value = "Qwitcherychen-Light";
-}
-);
+interpolationWeight = 300;
 interpolationWidth = 5;
 instanceInterpolations = {
 "F9847816-3BA7-404E-BAEF-52D5126F5321" = 1;
@@ -105454,16 +105446,6 @@ name = Light;
 weightClass = Light;
 },
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Qwitcherbychen Regular";
-},
-{
-name = postscriptFontName;
-value = "Qwitcherbychen-Regular";
-}
-);
 interpolationWeight = 400;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -105472,21 +105454,12 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Qwitcherbychen Bold";
-},
-{
-name = postscriptFontName;
-value = "Qwitcherbychen-Bold";
-}
-);
 interpolationWeight = 700;
 interpolationWidth = 5;
 instanceInterpolations = {
 "A97A914C-B88D-4C15-9174-D82F9495701A" = 1;
 };
+isBold = 1;
 name = Bold;
 weightClass = Bold;
 }
