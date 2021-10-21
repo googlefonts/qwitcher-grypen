@@ -5,7 +5,8 @@ DisplayStrings = (
 "/.notdef",
 "a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012abcdefghijklmnopqrstuvwxyz\012fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month",
 abcdefghijklmnopqrstuvwxyz,
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ABCDEFGHIJKLMNOPQRSTUVWXYZ,
+"­"
 );
 copyright = "Copyright 2007-2021 The Qwitcher Bychen Project Authors (https://github.com/googlefonts/qwitcher-bychen)";
 customParameters = (
@@ -545,6 +546,24 @@ width = 518;
 }
 );
 note = .notdef;
+},
+{
+glyphname = CR;
+layers = (
+{
+layerId = "F9847816-3BA7-404E-BAEF-52D5126F5321";
+width = 600;
+},
+{
+layerId = "40AEFA51-7C1A-4EC8-A406-72A5BB2FABA0";
+width = 600;
+},
+{
+layerId = "A97A914C-B88D-4C15-9174-D82F9495701A";
+width = 600;
+}
+);
+unicode = 000D;
 },
 {
 glyphname = NULL;
@@ -21847,9 +21866,9 @@ width = 426;
 unicode = 0218;
 },
 {
-color = 3;
+color = 0;
 glyphname = Germandbls;
-lastChange = "2021-06-06 06:18:33 +0000";
+lastChange = "2021-10-21 18:26:42 +0000";
 layers = (
 {
 components = (
@@ -48903,9 +48922,9 @@ width = 236;
 unicode = 0219;
 },
 {
-color = 3;
+color = 0;
 glyphname = germandbls;
-lastChange = "2021-10-21 16:54:09 +0000";
+lastChange = "2021-10-21 18:26:30 +0000";
 layers = (
 {
 layerId = "F9847816-3BA7-404E-BAEF-52D5126F5321";
@@ -71745,6 +71764,25 @@ width = 279;
 );
 note = hyphen;
 unicode = 002D;
+},
+{
+glyphname = softhyphen;
+lastChange = "2021-10-21 18:25:24 +0000";
+layers = (
+{
+layerId = "F9847816-3BA7-404E-BAEF-52D5126F5321";
+width = 0;
+},
+{
+layerId = "40AEFA51-7C1A-4EC8-A406-72A5BB2FABA0";
+width = 0;
+},
+{
+layerId = "A97A914C-B88D-4C15-9174-D82F9495701A";
+width = 0;
+}
+);
+unicode = 00AD;
 },
 {
 color = 3;
