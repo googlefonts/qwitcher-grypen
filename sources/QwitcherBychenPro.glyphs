@@ -1,5 +1,5 @@
 {
-.appVersion = "1356";
+.appVersion = "1352";
 DisplayStrings = (
 "/.notdef",
 "a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012abcdefghijklmnopqrstuvwxyz\012fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wronder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month",
@@ -99475,72 +99475,35 @@ r = {
 };
 };
 "40AEFA51-7C1A-4EC8-A406-72A5BB2FABA0" = {
-"@MMK_L_a" = {
-"@MMK_R_i" = -150;
-"@MMK_R_w" = -140;
-"@MMK_R_g" = -180;
-"@MMK_R_r" = -120;
-"@MMK_R_s" = -100;
-"@MMK_R_u" = -90;
-"@MMK_R_y" = -150;
-adieresis = -150;
-};
-F = {
-"@MMK_R_a" = -80;
-"@MMK_R_i" = -70;
-"@MMK_R_id" = 20;
-"@MMK_R_u" = -40;
-"@MMK_R_y" = -60;
-};
-K = {
-"@MMK_R_y" = 50;
-"@MMK_R_v" = 40;
-y = 50;
-"@MMK_R_Ad" = 40;
-"@MMK_R_a" = 60;
-"@MMK_R_ad" = 40;
-"@MMK_R_l" = 40;
-"@MMK_R_w" = 60;
-};
-P = {
-"@MMK_R_a" = 30;
-"@MMK_R_i" = 40;
-"@MMK_R_l" = 80;
-"@MMK_R_o" = 40;
-"@MMK_R_r" = 40;
-"@MMK_R_u" = 40;
-idieresis = 100;
-igrave = 70;
-"@MMK_R_Udie" = 80;
-"@MMK_R_ad" = 60;
-"@MMK_R_ed" = 60;
-"@MMK_R_id" = 60;
-"@MMK_R_od" = 60;
-"@MMK_R_ud" = 60;
-"@MMK_R_yd" = 60;
-};
-T = {
-h = -40;
-"@MMK_R_a" = -200;
-};
-W = {
-"@MMK_R_a" = -30;
-"@MMK_R_O" = 60;
-};
 "@MMK_L_T" = {
 "@MMK_R_Ad" = -130;
 "@MMK_R_Udie" = -70;
 "@MMK_R_ad" = -100;
+"@MMK_R_aring" = -120;
 "@MMK_R_ed" = -70;
+"@MMK_R_i" = -120;
 "@MMK_R_id" = -60;
+"@MMK_R_m" = -70;
 "@MMK_R_od" = -130;
 "@MMK_R_ud" = -60;
-"@MMK_R_yd" = -70;
-"@MMK_R_aring" = -120;
-"@MMK_R_i" = -120;
-"@MMK_R_m" = -70;
 "@MMK_R_w" = -100;
 "@MMK_R_y" = -120;
+"@MMK_R_yd" = -70;
+};
+"@MMK_L_Z" = {
+"@MMK_R_id" = 60;
+"@MMK_R_u" = 30;
+"@MMK_R_y" = 0;
+};
+"@MMK_L_a" = {
+"@MMK_R_g" = -180;
+"@MMK_R_i" = -150;
+"@MMK_R_r" = -120;
+"@MMK_R_s" = -100;
+"@MMK_R_u" = -90;
+"@MMK_R_w" = -140;
+"@MMK_R_y" = -150;
+adieresis = -150;
 };
 "@MMK_L_id" = {
 "@MMK_R_l" = 20;
@@ -99552,19 +99515,56 @@ A = {
 "@MMK_R_s" = 20;
 "@MMK_R_w" = 20;
 };
+F = {
+"@MMK_R_a" = -80;
+"@MMK_R_i" = -70;
+"@MMK_R_id" = 20;
+"@MMK_R_u" = -40;
+"@MMK_R_y" = -60;
+};
+K = {
+"@MMK_R_Ad" = 40;
+"@MMK_R_a" = 60;
+"@MMK_R_ad" = 40;
+"@MMK_R_l" = 40;
+"@MMK_R_v" = 40;
+"@MMK_R_w" = 60;
+"@MMK_R_y" = 50;
+y = 50;
+};
+P = {
+"@MMK_R_Udie" = 80;
+"@MMK_R_a" = 30;
+"@MMK_R_ad" = 60;
+"@MMK_R_ed" = 60;
+"@MMK_R_i" = 40;
+"@MMK_R_id" = 60;
+"@MMK_R_l" = 80;
+"@MMK_R_o" = 40;
+"@MMK_R_od" = 60;
+"@MMK_R_r" = 40;
+"@MMK_R_u" = 40;
+"@MMK_R_ud" = 60;
+"@MMK_R_yd" = 60;
+idieresis = 100;
+igrave = 70;
+};
 R = {
 "@MMK_R_a" = -40;
 };
-r = {
-"@MMK_R_a" = -40;
+T = {
+"@MMK_R_a" = -200;
+h = -40;
 };
-"@MMK_L_Z" = {
-"@MMK_R_id" = 60;
-"@MMK_R_u" = 30;
-"@MMK_R_y" = 0;
+W = {
+"@MMK_R_O" = 60;
+"@MMK_R_a" = -30;
 };
 e = {
 "@MMK_R_g" = -40;
+};
+r = {
+"@MMK_R_a" = -40;
 };
 };
 "A97A914C-B88D-4C15-9174-D82F9495701A" = {
@@ -99572,16 +99572,16 @@ e = {
 "@MMK_R_Ad" = -130;
 "@MMK_R_Udie" = -70;
 "@MMK_R_ad" = -100;
+"@MMK_R_aring" = -120;
 "@MMK_R_ed" = -70;
+"@MMK_R_i" = -120;
 "@MMK_R_id" = -60;
+"@MMK_R_m" = -70;
 "@MMK_R_od" = -130;
 "@MMK_R_ud" = -60;
-"@MMK_R_yd" = -70;
-"@MMK_R_aring" = -120;
-"@MMK_R_i" = -120;
-"@MMK_R_m" = -70;
 "@MMK_R_w" = -100;
 "@MMK_R_y" = -120;
+"@MMK_R_yd" = -70;
 };
 "@MMK_L_Z" = {
 "@MMK_R_id" = 60;
@@ -99591,10 +99591,10 @@ e = {
 "@MMK_L_a" = {
 "@MMK_R_g" = -180;
 "@MMK_R_i" = -150;
-"@MMK_R_w" = -140;
 "@MMK_R_r" = -120;
 "@MMK_R_s" = -100;
 "@MMK_R_u" = -90;
+"@MMK_R_w" = -140;
 "@MMK_R_y" = -150;
 adieresis = -150;
 };
@@ -99616,48 +99616,48 @@ F = {
 "@MMK_R_y" = -60;
 };
 K = {
-"@MMK_R_v" = 40;
-y = 50;
-"@MMK_R_y" = 50;
 "@MMK_R_Ad" = 40;
 "@MMK_R_a" = 60;
 "@MMK_R_ad" = 40;
 "@MMK_R_l" = 40;
+"@MMK_R_v" = 40;
 "@MMK_R_w" = 60;
+"@MMK_R_y" = 50;
+y = 50;
 };
 P = {
-"@MMK_R_a" = 30;
-"@MMK_R_i" = 40;
-"@MMK_R_l" = 80;
-"@MMK_R_o" = 40;
-"@MMK_R_r" = 40;
-"@MMK_R_u" = 40;
-idieresis = 100;
-igrave = 70;
 "@MMK_R_Udie" = 80;
+"@MMK_R_a" = 30;
 "@MMK_R_ad" = 60;
 "@MMK_R_ed" = 60;
+"@MMK_R_i" = 40;
 "@MMK_R_id" = 60;
+"@MMK_R_l" = 80;
+"@MMK_R_o" = 40;
 "@MMK_R_od" = 60;
+"@MMK_R_r" = 40;
+"@MMK_R_u" = 40;
 "@MMK_R_ud" = 60;
 "@MMK_R_yd" = 60;
+idieresis = 100;
+igrave = 70;
 };
 R = {
 "@MMK_R_a" = -40;
 };
 T = {
-h = -40;
 "@MMK_R_a" = -200;
+h = -40;
 };
 W = {
-"@MMK_R_a" = -30;
 "@MMK_R_O" = 60;
-};
-r = {
-"@MMK_R_a" = -40;
+"@MMK_R_a" = -30;
 };
 e = {
 "@MMK_R_g" = -40;
+};
+r = {
+"@MMK_R_a" = -40;
 };
 };
 };
@@ -99665,5 +99665,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
