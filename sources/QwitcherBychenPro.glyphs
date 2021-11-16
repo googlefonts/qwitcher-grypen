@@ -10,7 +10,7 @@ DisplayStrings = (
 "/Ncommaaccent/circumflexcomb_gravecomb/ringcomb/aringacute",
 "/two.lf",
 "/four.lf",
-"´/commaturnedabovecomb/commaturnedabovecomb/commaaccentcomb/Gcommaaccent"
+"/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/brevecomb/tildecomb/macroncomb/hookabovecomb/commaturnedabovecomb/commaturnedabovecomb ´/commaturnedabovecomb/commaturnedabovecomb/commaaccentcomb/Gcommaaccent"
 );
 classes = (
 {
@@ -74,15 +74,6 @@ value = (
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
 }
 );
 date = "2021-10-21 16:45:47 +0000";
@@ -186,11 +177,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 800;
+value = 802;
 },
 {
 name = winDescent;
-value = 300;
+value = 350;
 },
 {
 name = strikeoutPosition;
@@ -236,7 +227,6 @@ verticalStems = (
 16,
 25
 );
-visible = 1;
 weight = Light;
 weightValue = 300;
 widthValue = 5;
@@ -279,11 +269,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 800;
+value = 802;
 },
 {
 name = winDescent;
-value = 300;
+value = 350;
 },
 {
 name = strikeoutPosition;
@@ -326,7 +316,6 @@ verticalStems = (
 26,
 38
 );
-visible = 1;
 weightValue = 400;
 widthValue = 5;
 xHeight = 225;
@@ -368,11 +357,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 800;
+value = 802;
 },
 {
 name = winDescent;
-value = 300;
+value = 350;
 },
 {
 name = strikeoutPosition;
@@ -38951,7 +38940,7 @@ unicode = 011D;
 },
 {
 glyphname = gcommaaccent;
-lastChange = "2021-11-16 02:21:07 +0000";
+lastChange = "2021-11-16 02:49:58 +0000";
 layers = (
 {
 components = (
@@ -38986,7 +38975,7 @@ name = g;
 },
 {
 name = commaturnedabovecomb;
-transform = "{1, 0, 0, 1, 213, 49}";
+transform = "{1, 0, 0, 1, 213, 52}";
 }
 );
 layerId = "A97A914C-B88D-4C15-9174-D82F9495701A";
@@ -101400,7 +101389,7 @@ unicode = 0311;
 {
 color = 3;
 glyphname = commaturnedabovecomb;
-lastChange = "2021-11-16 02:13:44 +0000";
+lastChange = "2021-11-16 02:51:12 +0000";
 layers = (
 {
 anchors = (
@@ -101410,7 +101399,7 @@ position = "{8, 220}";
 },
 {
 name = top;
-position = "{32, 384}";
+position = "{32, 379}";
 }
 );
 background = {
@@ -101448,27 +101437,27 @@ paths = (
 {
 closed = 1;
 nodes = (
-"25 280 OFFCURVE",
-"37 291 OFFCURVE",
-"37 302 CURVE SMOOTH",
-"37 309 OFFCURVE",
-"27 315 OFFCURVE",
-"27 320 CURVE SMOOTH",
-"27 334 OFFCURVE",
-"53 356 OFFCURVE",
-"63 375 CURVE SMOOTH",
-"64 377 OFFCURVE",
-"63 380 OFFCURVE",
-"61 380 CURVE SMOOTH",
-"59 380 OFFCURVE",
-"56 378 OFFCURVE",
-"52 375 CURVE SMOOTH",
-"28 356 OFFCURVE",
-"0 317 OFFCURVE",
-"0 293 CURVE SMOOTH",
-"0 284 OFFCURVE",
-"5 280 OFFCURVE",
-"11 280 CURVE SMOOTH"
+"25 275 OFFCURVE",
+"37 286 OFFCURVE",
+"37 297 CURVE SMOOTH",
+"37 304 OFFCURVE",
+"27 310 OFFCURVE",
+"27 315 CURVE SMOOTH",
+"27 329 OFFCURVE",
+"53 351 OFFCURVE",
+"63 370 CURVE SMOOTH",
+"64 373 OFFCURVE",
+"63 375 OFFCURVE",
+"61 375 CURVE SMOOTH",
+"59 375 OFFCURVE",
+"57 374 OFFCURVE",
+"52 370 CURVE SMOOTH",
+"29 352 OFFCURVE",
+"0 313 OFFCURVE",
+"0 288 CURVE SMOOTH",
+"0 280 OFFCURVE",
+"5 275 OFFCURVE",
+"11 275 CURVE SMOOTH"
 );
 }
 );
@@ -101482,7 +101471,7 @@ position = "{12, 225}";
 },
 {
 name = top;
-position = "{29, 373}";
+position = "{30, 377}";
 }
 );
 background = {
@@ -101549,41 +101538,41 @@ paths = (
 {
 closed = 1;
 nodes = (
-"29 280 OFFCURVE",
-"42 291 OFFCURVE",
-"42 302 CURVE SMOOTH",
-"42 309 OFFCURVE",
-"31 315 OFFCURVE",
-"31 320 CURVE SMOOTH",
-"31 335 OFFCURVE",
-"69 359 OFFCURVE",
-"69 379 CURVE SMOOTH",
-"69 382 OFFCURVE",
-"67 384 OFFCURVE",
-"64 384 CURVE SMOOTH",
-"58 384 OFFCURVE",
-"42 371 OFFCURVE",
-"28 354 CURVE SMOOTH",
-"14 337 OFFCURVE",
-"0 314 OFFCURVE",
-"0 297 CURVE SMOOTH",
-"0 286 OFFCURVE",
-"9 280 OFFCURVE",
-"19 280 CURVE SMOOTH"
+"29 281 OFFCURVE",
+"43 292 OFFCURVE",
+"43 304 CURVE SMOOTH",
+"43 311 OFFCURVE",
+"31 317 OFFCURVE",
+"31 322 CURVE SMOOTH",
+"31 337 OFFCURVE",
+"70 362 OFFCURVE",
+"70 382 CURVE SMOOTH",
+"70 385 OFFCURVE",
+"68 387 OFFCURVE",
+"66 387 CURVE SMOOTH",
+"59 387 OFFCURVE",
+"44 373 OFFCURVE",
+"31 358 CURVE SMOOTH",
+"16 341 OFFCURVE",
+"0 315 OFFCURVE",
+"0 298 CURVE SMOOTH",
+"0 287 OFFCURVE",
+"9 281 OFFCURVE",
+"19 281 CURVE SMOOTH"
 );
 }
 );
-width = 63;
+width = 64;
 },
 {
 anchors = (
 {
 name = _top;
-position = "{16, 230}";
+position = "{16, 227}";
 },
 {
 name = top;
-position = "{27, 365}";
+position = "{28, 371}";
 }
 );
 background = {
@@ -101741,31 +101730,31 @@ paths = (
 {
 closed = 1;
 nodes = (
-"40 280 OFFCURVE",
-"52 290 OFFCURVE",
-"52 300 CURVE SMOOTH",
-"52 307 OFFCURVE",
-"39 314 OFFCURVE",
-"39 319 CURVE SMOOTH",
-"39 335 OFFCURVE",
-"86 366 OFFCURVE",
-"86 384 CURVE SMOOTH",
-"86 386 OFFCURVE",
-"86 389 OFFCURVE",
-"83 389 CURVE SMOOTH",
-"65 389 OFFCURVE",
-"40 364 OFFCURVE",
-"29 352 CURVE SMOOTH",
-"8 329 OFFCURVE",
-"0 304 OFFCURVE",
-"0 298 CURVE SMOOTH",
-"0 288 OFFCURVE",
-"11 280 OFFCURVE",
-"25 280 CURVE SMOOTH"
+"48 285 OFFCURVE",
+"54 300 OFFCURVE",
+"54 305 CURVE SMOOTH",
+"54 319 OFFCURVE",
+"41 320 OFFCURVE",
+"41 330 CURVE SMOOTH",
+"41 347 OFFCURVE",
+"89 383 OFFCURVE",
+"89 392 CURVE SMOOTH",
+"89 394 OFFCURVE",
+"89 398 OFFCURVE",
+"86 398 CURVE SMOOTH",
+"67 398 OFFCURVE",
+"42 372 OFFCURVE",
+"31 360 CURVE SMOOTH",
+"9 336 OFFCURVE",
+"0 319 OFFCURVE",
+"0 303 CURVE SMOOTH",
+"0 293 OFFCURVE",
+"11 285 OFFCURVE",
+"25 285 CURVE SMOOTH"
 );
 }
 );
-width = 69;
+width = 89;
 }
 );
 unicode = 0312;
@@ -107755,5 +107744,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }
