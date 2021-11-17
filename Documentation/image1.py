@@ -16,13 +16,13 @@ import argparse
 
 # Constants, these are the main "settings" for the image
 WIDTH, HEIGHT, MARGIN, FRAMES = 3800, 1600, 128, 1
-FONT_PATH = "../fonts/ttf/QwitcherBychen-Regular.ttf"
+FONT_PATH = "../fonts/ttf/QwitcherGrypen-Regular.ttf"
 FONT_LICENSE = "OFL v1.1"
 AUXILIARY_FONT = "Helvetica"
 AUXILIARY_FONT_SIZE = 24
-BIG_TEXT = "Qwitcher Bychen"
-BIG_TEXT_FONT_SIZE = 680
-BIG_TEXT_SIDE_MARGIN = MARGIN * 2
+BIG_TEXT = "Qwitcher Grypen"
+BIG_TEXT_FONT_SIZE = 760
+BIG_TEXT_SIDE_MARGIN = MARGIN * 1.6
 BIG_TEXT_BOTTOM_MARGIN = MARGIN * 5
 GRID_VIEW = False # Change this to "True" for a grid overlay
 

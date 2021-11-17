@@ -1,6 +1,6 @@
-# Qwitcher Bychen
+# Qwitcher Grypen
 
-Inspired by the letterforms that come from using an architectural ruling pen, QwitcherBychen is a casual brush script with a bit of an edge. Three weights can be used to successfully change sizes without compromising readability. 
+Inspired by the letterforms that come from using an architectural ruling pen, Qwitcher Grypen is a casual brush script with a bit of an edge. Three weights can be used to successfully change sizes without compromising readability. 
 
 ![Sample Image](Documentation/image1.png)
 
