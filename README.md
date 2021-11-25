@@ -1,6 +1,8 @@
 # Qwitcher Grypen
 
-Inspired by the letterforms that come from using an architectural ruling pen, Qwitcher Grypen is a casual brush script with a bit of an edge. Three weights can be used to successfully change sizes without compromising readability. 
+Inspired by the letterforms that come from using an architectural ruling pen, Qwitcher Grypen is a casual brush script with a bit of an edge.
+
+It comes in two styles, Regular and Bold, with Latin Character sets including Western, Central, and Vietnamese language support.
 
 ![Sample Image](Documentation/image1.png)
 
